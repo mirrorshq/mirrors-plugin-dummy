@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin id="fullofmame">
+  <mirror-site id="fullofmame">
+    <name>Mirror for non-exist website fullofmame.org</name>
+    <storage>file</storage>
+    <advertiser>
+      <interface>file:http</interface>
+      <interface>file:ftp</interface>
+    </advertiser>
+  </mirror-site>
+</plugin>
