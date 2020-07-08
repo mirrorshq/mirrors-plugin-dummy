@@ -1,4 +1,4 @@
-plugin=edgeemu
+plugin=fullofmame
 prefix=/usr
 
 all:
