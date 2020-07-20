@@ -1,4 +1,4 @@
-plugin=fullofmame
+plugin=dummy
 prefix=/usr
 
 all:

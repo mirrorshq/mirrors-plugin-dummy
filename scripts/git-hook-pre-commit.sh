@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LIBFILES=""
-LIBFILES="${LIBFILES} $(find ./fullofmame -name '*.py' | tr '\n' ' ')"
+LIBFILES="${LIBFILES} $(find ./dummy -name '*.py' | tr '\n' ' ')"
 ERRFLAG=0
 
 OUTPUT=`pyflakes ${LIBFILES} 2>&1`
