@@ -6,6 +6,7 @@
     <advertiser>
       <interface>file:http</interface>
       <interface>file:ftp</interface>
+      <interface>file:rsync</interface>
     </advertiser>
     <initializer>
       <executable>initialize.py</executable>
