@@ -2,7 +2,7 @@
 <plugin id="dummy">
   <mirror-site id="dummy">
     <name>A dummy plugin used for testing</name>
-    <storage>file</storage>
+    <storage type="file"/>
     <advertiser>
       <interface>file:http</interface>
       <interface>file:ftp</interface>
